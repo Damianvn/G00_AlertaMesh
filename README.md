@@ -19,7 +19,7 @@ Características:
 Proyecto del curso Computación en Red III. Versión 1.1, prueba de concepto (TRL 3-4).
 
 ## **Integrantes**
-- Alexandra Arce
+- Alexandra Vanesa Arce Quispe
 - Farid Cardenas
 - Jhrolan Puma
 - Matías Valdivia
